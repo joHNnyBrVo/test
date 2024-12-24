@@ -12,11 +12,10 @@ body {
     background-color: var(--primary-background);
 }
 
-h1 {
+h1, h2 {
     color: rgb(59, 58, 58);
     text-align: center;
     padding: 20px;
     font-size: 30px;
     font-weight: bold;
-
 }
